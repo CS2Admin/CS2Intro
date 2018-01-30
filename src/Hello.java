@@ -6,5 +6,6 @@ public class Hello {
 		System.out.println("1675 Starbridge Dr.");
 		System.out.println("Brookfield WI");
 		System.out.println("12345");
+		System.out.println("Age: 666");
 	}
 }
